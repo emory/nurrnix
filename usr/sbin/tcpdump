@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo ""
+echo "Usage:"
+echo ""
+echo "This version of tcpdump doesn't support bpf filters. Please use grep. Multiple times."
+echo ""
+echo "core dumped"
